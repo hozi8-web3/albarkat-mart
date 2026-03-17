@@ -4,3 +4,8 @@ out
 .DS_Store
 .eslintcache
 *.log*
+*.txt
+*.tsbuildinfo
+build/
+local-data/
+*.db
